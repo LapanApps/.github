@@ -1,4 +1,4 @@
-# 8 JAM 8 APPS WORKSHOP
+# WORKSHOP1: 8 JAM 8 APPS WORKSHOP
 
 ![Poster](https://user-images.githubusercontent.com/60868965/231306815-23be58d0-49bf-4676-b448-2cb83f695e79.jpg)
 
@@ -16,3 +16,12 @@
 If you're lucky, you can find the app _.apk_ or web link in their releases page.
 
 #gerakandevelopertanahair
+
+## WORKSHOP 2: FLUTTERING INTO THE WORLD OF MOBILE APP DEVELOPMENT
+
+![WhatsApp Image 2023-05-16 at 12 59 03](https://github.com/LapanApps/.github/assets/60868965/0c0cf651-271c-4b96-925a-394e7975d31a)
+
+- Module 1: Intro
+- Module 2: [Todo list app (frontened dev)](https://github.com/LapanApps/todo_ap)
+- Module 3: Firebase
+- ~Module 4: Ready to publish (change app icon, compile apk)~
